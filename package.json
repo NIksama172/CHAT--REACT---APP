@@ -1,6 +1,6 @@
 {
-  "homepage": "https://iamroare.github.io/iamroare_chat_app",
-  "name": "iamroare_chat_app",
+  "homepage": chat_react_app",
+  "name": "chat_react_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
