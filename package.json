@@ -1,6 +1,6 @@
 {
-  "homepage": chat_react_app",
-  "name": "chat_react_app",
+  "homepage": chat_app",
+  "name": "chat_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
